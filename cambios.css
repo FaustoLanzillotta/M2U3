@@ -1,0 +1,39 @@
+@media screen{
+        aside {
+        background: red;
+        float: left;
+        width: 300px;
+        margin-left: 40px;
+        margin-top: 100px;
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        #contenedor {
+            width: 900px;
+            background: #315fc4;
+            
+            
+        }
+        nav {
+            background: #06f0e4;
+            float:initial;
+            width: 250px;
+            margin-left: 300px;
+        }
+        a {
+            color:#070505;
+            font-size: 40px;
+        }
+        section {
+            font-size: 40px;
+            background: #226166;
+            margin-top: 150px;
+            
+        }
+        body {
+            background: #315fc4;
+        }
+
+    
+}
